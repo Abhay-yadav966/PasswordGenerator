@@ -12,6 +12,7 @@ The Password Generator is a web-based tool built using HTML, CSS, and JavaScript
 - Responsive design for various devices.
 
 ## Preview
+![Screenshot (223)](https://github.com/Abhay-yadav966/PasswordGenerator/assets/115336330/3fc4597b-654f-415e-ab03-45b48099624a)
 
 ## Usage
 
